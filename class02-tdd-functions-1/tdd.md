@@ -1,7 +1,7 @@
 Test Driven Development and Design (TDD)
 ===
 
-1. Clone the project [bc1-config](git@github.com:alchemy-web-bootcamp-winter-2019/bc1-configs). You can rename it our copy it as needed.
+1. Clone the project [bc1-config](git@github.com:alchemy-bootcamp-spring-2019/bootcamp-prep.git). Rename `bc1-config` directory to `tdd-experiment`.
 
 2. Right-click (Windows) or Control-click (Mac) on the index.html file in the tests folder. This opens a QUnit browser window.
 
