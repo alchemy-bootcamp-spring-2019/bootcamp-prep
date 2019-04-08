@@ -26,10 +26,6 @@ Go into a folder:
 > cd <into-folder>
 ```
 
-```sh
-> cd <into-file>
-```
-
 Go back a directory:
 ```sh
 > cd ..
