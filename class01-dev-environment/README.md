@@ -9,7 +9,7 @@ Day 1: Developer Tools
 
 ### Keyboard
 
-> [Let your fingers do the talking](keyboard.md)
+> [Let your fingers do the talking](keyboard01.md)
 
 ### Terminal
 
