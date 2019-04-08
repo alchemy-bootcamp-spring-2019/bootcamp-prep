@@ -20,10 +20,10 @@ What's in this directory?
 > ls
 ```
 
-Go into a file/folder:
+Go into a folder:
 
 ```sh
-> cd <into-file>
+> cd <into-folder>
 ```
 
 ```sh
