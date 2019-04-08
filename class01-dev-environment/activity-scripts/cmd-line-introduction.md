@@ -14,23 +14,57 @@ Where am I?
 > pwd
 ```
 
-What is home directory (`~`)?
-
-Lost? Go Home:
-
-```sh
-> cd
-```
-
 What's in this directory?
 
 ```sh
 > ls
 ```
 
+Go into a file/folder:
+
+```sh
+> cd <into-file>
+```
+
+```sh
+> cd <into-file>
+```
+
+Go back a directory:
+```sh
+> cd ..
+```
+
+Lost? Go Home: 
+What is home directory (`~`)?
+```sh
+> cd ~
+```
+
 ### Setup for Team Exercise
 
 Using your GUI, create a `projects` directory (folder) in your home directory.
+
+Check that you are home:
+
+```sh
+> pwd
+```
+- or get home:
+```sh
+> cd ~
+```
+Make a directory:
+
+```sh
+> mkdir projects
+```
+
+Check that it is there:
+
+```sh
+> ls
+```
 
 ### Cleaning up
 
