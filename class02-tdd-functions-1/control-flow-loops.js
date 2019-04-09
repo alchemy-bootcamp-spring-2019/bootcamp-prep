@@ -31,3 +31,5 @@ count;
 for (let thisCount = 0; thisCount < 10; thisCount++) {
   console.log("The for loop is on thisCount " +  thisCount);
 }
+
+
