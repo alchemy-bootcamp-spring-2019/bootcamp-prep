@@ -1,35 +1,65 @@
-let count = 0;
+// Increment
+let cat = 0;
 
-count;
+cat;
 
-count += 1;
+cat += 1;
 
-count;
+cat;
 
-count++;
+cat++;
 
-count;
+cat;
 
-count -= 2;
+// Decrement
+cat -= 2;
 
-count;
+cat;
 
-while (count < 5) {
-  console.log('The while loop is on count ' + count);
-  count++;
+// While Loops
+
+while (cat < 5) {
+  console.log('The while loop counted ' + cat + ' kitties');
+  cat++;
 }
 
-count;
+cat;
 
-while (count < 10) {
-  console.log('The while loop is on count ' + count);
-  count++; 
+while (cat < 10) {
+  console.log('The while loop counted ' + cat + ' kitties');
+  cat++; 
 }
 
-count;
+cat;
 
-for (let thisCount = 0; thisCount < 10; thisCount++) {
-  console.log("The for loop is on thisCount " +  thisCount);
+while (cat < 15) {
+  console.log('The while loop counted ' + cat + ' kitties');
+  cat++; 
 }
 
+cat;
 
+while (cat < 20) {
+  console.log('The while loop counted ' + cat + ' kitties');
+  cat++; 
+}
+
+cat;
+
+// For Loops
+
+for (let dog = 0; dog < 10; dog++) {
+  console.log('The for loop counted ' +  dog + ' pups');
+}
+
+for (let dog = 5; dog < 10; dog++) {
+  console.log('The for loop counted ' +  dog + ' pups');
+}
+
+for (let dog = 10; dog < 15; dog++) {
+  console.log('The for loop counted ' +  dog + ' pups');
+}
+
+for (let dog = 15; dog < 20; dog++) {
+  console.log('The for loop counted ' +  dog + ' pups');
+}
