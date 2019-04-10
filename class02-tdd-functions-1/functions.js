@@ -1,6 +1,6 @@
 
 
-function aNiceFunction3() {
+function aNiceFunction() {
     return 'I`m a SUPER nice function'
 }
 
