@@ -27,12 +27,31 @@ Test Driven Development and Design (TDD)
 2. Make the function return the Boolean.
   - write a function that passes the test
 
-**Stretch Challenge**
+**Stretch Challenges**
 
+Square A Number Challenge
 1. TDD a function that squares a number.
 2. Make it only square even numbers.
 3. Return this as a string. 
 
+Combine Two Strings Challenge
+1. TDD a function that takes 2 strings.
+2. Expect the function to combine the 2 strings and return them as one
 
+Print Fizz if a number is divisible by 3
+1. TDD a function that takes a number.
+2. IF the number is divisible by 3 with no remainder
+3. Expect the function to return the string 'Fizz'
+4. ELSE return the number
 
+Print Buzz if a number is divisible by 5
+1. TDD a function that takes a number.
+2. IF the number is divisible by 5 with no remainder
+3. Expect the function to return the string 'Buzz'
+4. ELSE return the number
 
+Print FizzBuzz if a number is divisible by 3 & 5
+1. TDD a function that takes a number.
+2. IF the number is divisible by 3 && 5
+3. Expect the function to return the string 'FizzBuzz'
+4. ELSE return the number
